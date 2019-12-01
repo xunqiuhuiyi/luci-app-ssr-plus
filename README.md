@@ -1,15 +1,16 @@
 # luci-app-ssr-plus
 
 ## 说明
-   (注：源码是搬运的，issue的尽量不要在这里提，提了也不会修复)
 
+   此仓库只做个人备份用，如有需要请到插件原作者 [[Lean]](https://github.com/coolsnowwolf) 的 [[LEDE仓库]](https://github.com/coolsnowwolf/lede)进行反馈。
+
+   源码来源：https://github.com/coolsnowwolf
+   
    源码特色：
-
-   1.免开门
-
-   2.更新g-f-w列表，共5184条
-
-   3.更新国内IP段，共8374条
+   - 1.免开门
+   - 2.更新g-f-w列表，共5184条
+   - 3.更新国内IP段，共8374条
+   - 注：L大的lede源码已经重新上传此插件，建议使用L大的源。
 
 ## 使用方法一
 ```Brach
